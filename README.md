@@ -1,7 +1,6 @@
 # About me
 
-
-**pcn18-sky/pcn18-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pcn18-sky/pcn18-sky** ✨ 
 
 Here are some ideas to get you started:
 
